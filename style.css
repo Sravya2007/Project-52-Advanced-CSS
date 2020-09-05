@@ -62,6 +62,7 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                text-align: center;
             }
 
             .linksS {
@@ -75,6 +76,7 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                text-align: center;
             }
 
             .links1 {
@@ -137,6 +139,6 @@
             }
 
             body{
-                background-color: #dfdd86;
+                background-color: #f0efd9;
                 margin:0px;
             }
