@@ -8,10 +8,15 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .header:hover {
+                transition-duration: 0.7s;
+                transform:scale(1.02);
             }
 
             .menu {
-                background-color: #5FE6EB;
                 display: flex;
                 justify-content: space-between;
                 font-size:20px;
@@ -29,6 +34,12 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .description1:hover {
+                transition-duration: 0.7s;
+                transform:scale(1.02);
             }
 
             .description2 {
@@ -42,6 +53,12 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .description2:hover {
+                transition-duration: 0.7s;
+                transform:scale(1.02);
             }
 
             .footer {
@@ -51,6 +68,12 @@
                 margin:30px;
                 padding:25px;
                 border-radius:20px;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .footer:hover {
+                transition-duration: 0.7s;
+                transform:scale(1.02);
             }
 
             .links {
@@ -65,6 +88,37 @@
                 padding:25px;
                 border-radius:20px;
                 position:relative;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links1:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links2:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links3:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links4:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links5:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
+            }
+
+            .links6:hover{
+                transition-duration: 0.7s;
+                box-shadow: 5px 5px 5px 5px #999;
             }
 
             .links1 p{
@@ -76,11 +130,13 @@
             }
 
             .links1:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links1:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .links2 p{
@@ -92,27 +148,31 @@
             }
 
             .links2:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links2:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .links3 p{
                 position:absolute;
                 top: 50%;
                 left:50%;
-                transform: translate(350%, -50%);
+                transform: translate(340%, -50%);
                 opacity:0;
             }
 
             .links3:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links3:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .links4 p{
@@ -124,11 +184,13 @@
             }
 
             .links4:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links4:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .links5 p{
@@ -140,11 +202,13 @@
             }
 
             .links5:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links5:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .links6 p{
@@ -156,11 +220,13 @@
             }
 
             .links6:hover p{
+                transition-duration: 0.7s;
                 opacity: 1;
             }
 
             .links6:hover img{
-                opacity: 0.33;
+                transition-duration: 0.7s;
+                opacity: 0.2;
             }
 
             .linksS {
@@ -175,6 +241,7 @@
                 padding:25px;
                 border-radius:20px;
                 position:relative;
+                box-shadow: 5px 5px 5px 5px #999;
             }
 
             .links1 {
@@ -210,7 +277,7 @@
 
             .links4 {
                 background-color: #ebecab;
-                color:#929409;
+                color:#6d6e07;
                 font-size:25px;
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
                 margin:30px;
