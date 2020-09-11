@@ -312,8 +312,10 @@
                 color: #cbebea;
                 width: 200px;
                 margin-right: 50px;
+                text-decoration:none;
             }
 
             .menu a:visited {
                 color: #d81d8d;
+                text-decoration:none;
             }
