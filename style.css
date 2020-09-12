@@ -319,3 +319,16 @@
                 color: #d81d8d;
                 text-decoration:none;
             }
+
+            .circle img {
+                display:flex;
+                margin: auto;
+                border-radius: 5%;
+                filter:blur(5px);
+            }
+
+            .circle:hover img{
+                transition-duration: 0.7s;
+                filter:none;
+                transform:scale(1.02);
+            }
