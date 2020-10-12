@@ -352,3 +352,8 @@
                 filter:none;
                 transform:scale(1.02);
             }
+
+            ::selection {
+                color: black;
+                background: white;
+              }
